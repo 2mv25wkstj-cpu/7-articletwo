@@ -1,0 +1,23 @@
+html{
+    background-color: aquamarine;
+}
+.site-header {
+    background-color: yellow;
+}
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.article-section{
+    background-color: pink;
+    padding:10px;
+    margin-bottom: 10px;
+}
+.callout{
+    background-color: white;
+     padding:10px;
+}
+.site-footer{
+    background-color: rgb(251, 187, 69);
+    margin-top:15px;
+}
